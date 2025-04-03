@@ -1,0 +1,34 @@
+{
+  "name": "ha-components-loader",
+  "version": "1.0.0",
+  "description": "Dynamic loader for Home Assistant components",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "home-assistant",
+    "components",
+    "loader",
+    "custom-elements"
+  ],
+  "author": "KipK",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/ha-components-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/username/ha-components-loader/issues"
+  },
+  "homepage": "https://github.com/username/ha-components-loader#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "files": [
+    "dist"
+  ]
+}
