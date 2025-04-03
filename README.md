@@ -5,7 +5,7 @@ A utility package for dynamically loading Home Assistant UI components in custom
 ## Installation
 
 ```bash
-npm install ha-components-loader
+npm install @kipk/ha-components-loader
 ```
 
 ## Usage
