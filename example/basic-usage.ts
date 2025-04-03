@@ -1,4 +1,4 @@
-import { loadHaComponents } from 'ha-components-loader';
+import { loadHaComponents } from '@kipk/load-ha-components';
 
 // Example 1: Load default components
 async function loadDefaultComponents() {
