@@ -5,13 +5,13 @@ A utility package for dynamically loading Home Assistant UI components in custom
 ## Installation
 
 ```bash
-npm install ha-components-loader
+npm install @kipk/ha-components-loader
 ```
 
 ## Usage
 
 ```typescript
-import { loadHaComponents, DEFAULT_HA_COMPONENTS } from 'ha-components-loader';
+import { loadHaComponents, DEFAULT_HA_COMPONENTS } from '@kipk/ha-components-loader';
 
 // Use the default list of components
 await loadHaComponents();
