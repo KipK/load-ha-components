@@ -11,7 +11,7 @@ npm install @kipk/ha-components-loader
 ## Usage
 
 ```typescript
-import { loadHaComponents, DEFAULT_HA_COMPONENTS } from 'ha-components-loader';
+import { loadHaComponents, DEFAULT_HA_COMPONENTS } from '@kipk/ha-components-loader';
 
 // Use the default list of components
 await loadHaComponents();
