@@ -1,6 +1,6 @@
 {
   "name": "@kipk/load-ha-components",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Dynamic loader for Home Assistant components",
   "keywords": [
     "home-assistant",
@@ -8,13 +8,13 @@
     "loader",
     "custom-elements"
   ],
-  "homepage": "https://github.com/username/load-ha-components#readme",
+  "homepage": "https://github.com/kipk/load-ha-components#readme",
   "bugs": {
-    "url": "https://github.com/username/load-ha-components/issues"
+    "url": "https://github.com/kipk/load-ha-components/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/username/load-ha-components.git"
+    "url": "git+https://github.com/kipk/load-ha-components.git"
   },
   "license": "MIT",
   "author": "KipK",

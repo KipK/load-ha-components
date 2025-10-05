@@ -52,7 +52,10 @@ const DEFAULT_HA_COMPONENTS = [
     'ha-sortable',
     'ha-svg-icon',
     'ha-alert',
-    'mwc-button'
+    'ha-button',
+    'ha-color-picker',
+    'ha-badge',
+    'ha-sankey-chart'
 ];
 
 export const loadHaComponents = async (components?: string[]): Promise<void> => {
